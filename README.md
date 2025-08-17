@@ -4,7 +4,7 @@ A modern dark-themed portfolio website showcasing my skills, projects, and journ
 
 🔗 Live Demo
 
-View Portfolio Website
+[View Portfolio Website](https://kalpesh269.github.io/CodeAlpha_Portfolio/)
 
 📖 About
 
