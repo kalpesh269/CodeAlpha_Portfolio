@@ -27,7 +27,7 @@ Project showcase with:
 
 🚀 Getting Started
 1. Clone the repository
-  git clone https://github.com/kalpesh269/portfolio-website.git
+  git clone https://github.com/kalpesh269/CodeAlpha_Portfolio.git
 
 2. Open the project folder
   cd portfolio-website
