@@ -35,8 +35,8 @@ JavaScript(Minimal)
 3. Open index.html in your browser to view the site.
 
 📬 Contact
-Email: kalpeshdahite009@gmail.com
-LinkedIn: Kalpesh Nimba Dahite
-GitHub: kalpesh269
+- Email: kalpeshdahite009@gmail.com
+- LinkedIn: Kalpesh Nimba Dahite
+- GitHub: kalpesh269
 
 ⭐ If you like this project, consider giving it a star on GitHub!
