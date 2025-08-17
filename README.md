@@ -16,14 +16,14 @@ This is my first personal portfolio project, created to highlight my background,
 - Sections: Home, About, Skills, Projects, Contact
 
 Project showcase with:
-📸 Basic Image Gallery
-🧮 Simple Calculator
-Smooth UI with clean structure
+- 📸 Basic Image Gallery
+- 🧮 Simple Calculator
+- Smooth UI with clean structure
 
 🛠️ Tech Stack
-HTML
-CSS
-JavaScript(Minimal)
+- HTML
+- CSS
+- JavaScript(Minimal)
 
 🚀 Getting Started
 1. Clone the repository
